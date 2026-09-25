@@ -35,6 +35,8 @@ stm/
 ├── steam_env/                # Project virtual environment
 └── stm_research_questions.ipynb
 ```
+## An html file has been added to show output without running the whole project.
+## "stm_research_questions-3.html"
 
 ## First Step: Set Up the Environment
 
